@@ -21,6 +21,9 @@ let nome4=true;
 console.log(typeof nome4)
 
 
+
+
+
 // {}=Objeto->lista
 // []=Array->conjunto de objetos->lista
 // ()=Metodo->terá parametros
